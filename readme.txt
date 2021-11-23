@@ -22,3 +22,6 @@ Procedures:
 
 Functions:
  - has_authorization_yn
+
+Bei Fragen / Anregungen / Wünsche / Beschwerden: 
+joerg.doppelreiter@solicon-it.com
